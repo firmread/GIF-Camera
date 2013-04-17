@@ -6,7 +6,7 @@ A simple Processing(.org) tool that allows your to create animated GIFs of yours
 ___ HOW TO USE
 
 Copy the contents of the 'libraries_you_need' folder to your Processing libraries directory. 
-This is usually located in Document->Processing->Libraries.
+This is usually located in Documents->Processing->Libraries.
 Ensure that you start (or restart) Processing after these Libraries are placed in the appropriate folder
 
 The program *may* throw a webcam error related to your video ratio.
